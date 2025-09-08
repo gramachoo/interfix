@@ -15,8 +15,61 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-## Integrantes 👥
+## 🏅 Desafio
+<a id="desafio"></a>
 
+O desafio consiste em criar um sistema integrado para web, desktop e mobile de suporte tecnico e gestão de chamados con integração de IA. O aplicativo possuira três níveis de acesso e deve ser capaz de analisar e atribuir a prioridade do chamado, também atribuirá o chamado ao técnico que tiver a carga horária mais baixa. Além da criação e gestão de chamadas, o sistema deverá gerar e gerenciar relatórios (com filtro de tempo), disponibilizando também uma função para gerenciar os níveis de acesso (função à qual somente o administrador poderá acessar).
+
+## 🏅 Solução 
+<a id="solucao"></a>
+
+O IMT - Interfix Management Tool permitirá que os usuários criem chamados para informar problemas internos, com o uso de inteligencia artificial para o tratamento dos chamados e atribuição do chamado para os tecnicos responsaveis, possibilitando um rapido gerenciamento de chamados para os mesmos através de um sistema intuitivo e facil de se lidar, e fazendo uma analise completa das informações armazenadas sobre os chamados através de relatórios detalhados.
+
+---
+
+## 🏃‍ DoR - Definition of Ready 
+<a id="dor"></a>
+
+* User Stories com *Critérios de Aceitação*
+* Subtarefas divididas *a partir das US*
+* Design no *Figma*
+* Modelagem do *Banco de Dados*
+
+## 🏆 DoD - Definition of Done
+<a id="dod"></a>
+
+* Manual de Usuário
+* Manual da Aplicação
+* Diagramas completos
+  
+---
+
+## 📅 Cronograma da Sprint
+<a id="sprint"></a>
+
+Sprint   |Periodo  | Documentação
+---------|------------|---------------|
+Sprint1  |25/08 - 01/09|[Sprint1]()|
+Sprint2  |01/09 - 08/09  |[Sprint2]()                |
+Sprint3  |09/   |     |
+
+---
+
+## Tecnologias Utilizadas
+
+<a id="tecnologias"></a>
+
+Categoria | Tecnologia 
+----------|---------------|
+FrontEnd  | HTML, CSS e Figma |
+BackEnd | python e C# |
+Banco de dados | BrModel e SQL Server|
+I.A | BlackBox AI |
+Metodologia | 	Scrum |
+
+## Integrantes 👥
+<a id="equipe"></a>
+ 
 Função       | Nome                | Github                                                       |
 ------------ | --------------------| -------------------------------------------------------------|
 Project Owner| Christian Fernandes | [Acessar Github](https://github.com/ChristianFernandesLemos) |
@@ -26,29 +79,6 @@ Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouz
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
-## Metodologia Scrum 🎯
-
-Foi utilizada a metodologia Scrum, sabendo disso, primeiro foram reunidos os [requisitos](https://github.com/ChristianFernandesLemos/Suporte-T-cnico/blob/main/Backlog/Requisitos.txt), essa parte dos requisitos aborda os requisitos funcionais, os requisitos não funcionais, o plano de negócios e outros fatores, como a [*User Strory*](https://github.com/ChristianFernandesLemos/Suporte-T-cnico/blob/main/Backlog/User%20Story.md). e com base no que foi dito o sistema foi modelado da forma efetiva. Depois de reunir os requisitos foi feito o backlog das sprints.
-
-### *Sprint Planing*
-
-1. Estabelecimento de metas e início do desenvolvimento do backlog do produto.
- * A primeira ação tomada em relação ao backlog do produto foi identificar os pontos críticos, com o intuito de compreender o seu alcance e propor melhorias.
-
-2. Desenvolvimento de diagramas de caso de uso sobre os primeiros requisitos atendidos.
- * Desenvolvimento de gráficos ilustrativos sobre os requisitos atendidos.
-
-3. Conclusão do desenvolvimento do backlog do produto.
- * O backlog do produto foi finalizado e está pronto para ser apresentado ao cliente.
-
-4. Desenvolvimento do banco de dados e prototipo Desktop(Modelo conceitual)
- * Inicia-se o desenvolvimento do banco de dados e do protótipo do sistema.
-
-5. Finalização de banco de datos e prototipo Desktop.
- * A modelagem do banco de dados é concluída enquanto o protótipo tambem está em finalizando.
- 
-### *Relatório de Entregas*
-- [Relatório Sprint 1](https://github.com/ChristianFernandesLemos/Suporte-T-cnico/blob/main/Scrum/Relatorio%20Sprints/Sprint1.md)
 
 
 ### *Relatório de Daily's*
