@@ -82,9 +82,3 @@ Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaske
 
 
 
-### *Relatório de Daily's*
-- [Relatório Daily 1]
-
-## Tecnologias Utilizadas 💻
-
-Categoría | Tecnologías
