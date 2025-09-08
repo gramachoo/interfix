@@ -36,7 +36,7 @@ Re005: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário
 
 ## Modelagem de requisitos  
 <a id = "modelagem"></a>
-* Os requisitos foram modelados em diagramas de [casos de uso](https://github.com/ChristianFernandesLemos/InterFix/tree/main/Diagramas), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e sua respectiva implementação.
+* Os requisitos foram modelados em diagramas de [casos de uso](https://github.com/gramachoo/interfix/tree/main/Diagramas), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e sua respectiva implementação.
 
 ## Ferramentas utilizadas  
 <a id = "ferramentas"></a>
