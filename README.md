@@ -52,7 +52,7 @@ Sprint   |Periodo  | Documentação
 ---------|------------|---------------|
 Sprint1  |25/08 - 01/09|[Sprint1](https://github.com/gramachoo/interfix/blob/main/Scrum/Sprint1.md)|
 Sprint2  |01/09 - 08/09  |[Sprint2]()                |
-Sprint3  |09/   |     |
+Sprint3  |08/09 - 15/09   | [Sprint3]()    |
 
 ---
 
