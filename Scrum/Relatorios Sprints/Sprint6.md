@@ -13,7 +13,7 @@
 
 ## Diagramas <a id="sequencia"></a>
 
-Com a criação dos [diagramas](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Diagramas/ChamadosGestao.asta) apresentados nas sprints anteriores. O diagrama de pacotes foi criado para ter uma estrutura ordenada dos outros diagramas.   
+Com a criação dos [diagramas](https://github.com/gramachoo/interfix/blob/main/Diagramas/ChamadosGestao.asta) apresentados nas sprints anteriores. O diagrama de pacotes foi criado para ter uma estrutura ordenada dos outros diagramas.   
 
 ## User Stories <a id = "user"></a>
 
