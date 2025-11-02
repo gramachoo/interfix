@@ -12,7 +12,7 @@
 > Status da Sprint: Em processo ⏳
 
 ## Diagrama de sequencia <a id="sequencia"></a>
-Com a criação dos dois [diagramas](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Diagramas/ChamadosGestao.asta) apresentados nas sprints anteriores, temos uma ideia de como o sistema deverá funcionar, pois os diagramas de classe feitos anteriormente são Classes de especificação (ou modelo de classes de projeto) que, juntamente com o diagrama de caso de uso, se complementam, embora ainda sejam representações incompletas do sistema, o que mudará com a integração do modelo de interação, integrando diagramas de sequências para cada caso de uso criado.
+Com a criação dos dois [diagramas](https://github.com/gramachoo/interfix/blob/main/Diagramas/ChamadosGestao.asta) apresentados nas sprints anteriores, temos uma ideia de como o sistema deverá funcionar, pois os diagramas de classe feitos anteriormente são Classes de especificação (ou modelo de classes de projeto) que, juntamente com o diagrama de caso de uso, se complementam, embora ainda sejam representações incompletas do sistema, o que mudará com a integração do modelo de interação, integrando diagramas de sequências para cada caso de uso criado.
 
 ## User Stories <a id = "user"></a>
 
