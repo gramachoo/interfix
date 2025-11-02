@@ -28,22 +28,22 @@ O desafio consiste em criar uma aplicação web, desktop e mobile de suporte tec
 > ## Solução 🏅
 InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do seu nível de acesso, que é dividido em 3 (Administrador, Técnico e Funcionário). As chamadas têm níveis de prioridade que são distribuídos em Baixo, Médio, Alto e Crítico. Critérios como a prioridade das chamadas serão decididos pela IA durante a atribuição da prioridade, que depois perguntará ao usuário se concorda com o nível de prioridade da chamada. Uma vez que uma chamada é atribuída a um técnico e resolvida, o sistema criará um relatório que será guardado por 2 anos junto com a chamada.
 
-> ## [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md) <a id ="backlog"></a> 🔩
+> ## Backlog do Produto<a id ="backlog"></a> 🔩
+O backlog do produto esta [aqui](https://github.com/gramachoo/interfix/blob/main/Backlog/BackLog%20do%20Produto.md)
+
 
 > ## Cronograma de Sprints <a id="sprint"></a> 📅
   
- * [SprintPlaning](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Sprint%20Planing/SprintPlaning.md)
-
 | Sprint          |    Período    | Documentação                            |
 | --------------- | :-----------: | ----------------------------------------|
-| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint1](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint1.md) |
-| 🔖 **SPRINT 2** | 01/09 - 08/09 | [Sprint 2](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint2.md) |
-| 🔖 **SPRINT 3**| 08/09 - 15/09 |[Sprint 3](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint3.md) |
-| 🔖 **SPRINT 4**| 15/09 - 22/09 |[Sprint 4](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint4.md) |
-| 🔖 **SPRINT 5**| 22/09 - 29/09 |[Sprint 5](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint5.md)|
-| 🔖 **SPRINT 6**| 29/09 - 06/10 |[Sprint 6](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint6.md)|
-| 🔖 **SPRINT 7**| 06/10 - 13/10 |[Sprint 7](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint7.md)|
-| 🔖 **SPRINT 8**| 20/10 - 27/10 |[Sprint 8](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint8.md)|
+| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint1](https://github.com/gramachoo/interfix/blob/main/Scrum/Relatorios%20Sprints/Sprint1.md) |
+| 🔖 **SPRINT 2** | 01/09 - 08/09 | [Sprint 2](https://github.com/gramachoo/interfix/blob/main/Scrum/Relatorios%20Sprints/Sprint2.md) |
+| 🔖 **SPRINT 3**| 08/09 - 15/09 |[Sprint 3](https://github.com/gramachoo/interfix/blob/main/Scrum/Relatorios%20Sprints/Sprint3.md) |
+| 🔖 **SPRINT 4**| 15/09 - 22/09 |[Sprint 4](https://github.com/gramachoo/interfix/blob/main/Scrum/Relatorios%20Sprints/Sprint4.md) |
+| 🔖 **SPRINT 5**| 22/09 - 29/09 |[Sprint 5](https://github.com/gramachoo/interfix/blob/main/Scrum/Relatorios%20Sprints/Sprint5.md)|
+| 🔖 **SPRINT 6**| 29/09 - 06/10 |[Sprint 6](https://github.com/gramachoo/interfix/blob/main/Scrum/Relatorios%20Sprints/Sprint6.md)|
+| 🔖 **SPRINT 7**| 06/10 - 13/10 |[Sprint 7](https://github.com/gramachoo/interfix/blob/main/Scrum/Relatorios%20Sprints/Sprint7.md)|
+
 
 > ## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
 
@@ -55,14 +55,18 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
-> ## [Estrutura do projeto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Estrutura%20do%20projeto/Estrutra%20do%20Projeto.md) 🏗️ <a id="estrutura"></a>
+> ## Estrutura do projeto 🏗️ <a id="estrutura"></a>
+
+A estrutura do projeto pode ser acessada [aqui](https://github.com/gramachoo/interfix/blob/main/Docs/Estrutura%20do%20projeto/Estrutra%20do%20Projeto.md)
 
 
-> ## [Execução do Projeto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Manual%20de%20Instal%C3%A7%C3%A3o/Manual%20de%20Insta%C3%A7%C3%A3o.md#instalacao) 🗃 <a id="execucao"></a> 
+> ## Execução do Projeto 🗃 <a id="execucao"></a>
 
+O manual de instalaçao pode ser acessado [aqui](https://github.com/gramachoo/interfix/blob/main/Docs/Manual%20de%20Instalção/Manual%20de%20Instação.md)
 
-> ## [Documentação](https://github.com/RenteriaJuan/Gestao-de-Chamados/tree/main/Docs) 📄<a id="documentacao"></a>
+> ## Documentação 📄<a id="documentacao"></a>
 
+A documentação pode ser acessada [aqui](https://github.com/gramachoo/interfix/tree/main/Docs)
 
 > ## Integrantes <a id="equipe"></a>👥
 
@@ -87,6 +91,6 @@ Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaske
 
 > ## DoD - Definition of Done 🏆 <a id="dod"></a>
 
-* [Manual da Aplicação](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Manual%20de%20Instalção/Manual%20de%20Instação.md)
-* [Manual de Usuário](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Manual%20de%20usuario/Manual_de_Uso_InterFix.docx)
+* [Manual da Aplicação](https://github.com/gramachoo/interfix/blob/main/Docs/Manual%20de%20Instalção/Manual%20de%20Instação.md)
+* [Manual de Usuário](https://github.com/gramachoo/interfix/blob/main/Docs/Manual%20de%20usuario/Manual_de_Uso_InterFix.docx)
 
