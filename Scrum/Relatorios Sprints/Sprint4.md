@@ -13,7 +13,7 @@
 
 ## Diagramas <a id="sequencia"></a>
 
-Com a criação dos [diagramas](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Diagramas/ChamadosGestao.asta) apresentados nas sprints anteriores. Procurou-se aperfeiçoar os já criados para confirmar que o caminho de criação do sistema está correto e está de acordo com o planejado na fase de análise.
+Com a criação dos [diagramas](https://github.com/gramachoo/interfix/blob/main/Diagramas/ChamadosGestao.asta) apresentados nas sprints anteriores. Procurou-se aperfeiçoar os já criados para confirmar que o caminho de criação do sistema está correto e está de acordo com o planejado na fase de análise.
 
 ## User Stories <a id = "user"></a>
 
